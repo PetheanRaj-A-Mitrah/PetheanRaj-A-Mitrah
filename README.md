@@ -36,9 +36,9 @@ I'm a **Full Stack Developer** passionate about building web apps that are fast,
 </p>
 
 ## 🎉 Fun Facts
-🧩 Logic puzzles and algorithm challenges are my go-to for fun.
-🎮 FPS and story-driven games keep me entertained.
-☕ Music fuels 90% of my coding, with chill beats and synth-wave as my background vibes.
+- 🧩 Logic puzzles and algorithm challenges are my go-to for fun.
+- 🎮 FPS and story-driven games keep me entertained.
+- ☕ Music fuels 90% of my coding, with chill beats and synth-wave as my background vibes.
 
 ## 🔥 GitHub Streak Stats
 
