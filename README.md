@@ -22,6 +22,6 @@ I'm a **Full Stack Developer** passionate about building web apps that are fast,
 - GitHub: https://github.com/PetheanRaj-A-Mitrah/
 - Email: petheanraj.a@mitrahsoft.com
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PetheanRaj-A-Mitrah&show_icons=true&theme=radical)
 
 <!-- Optional: Add more sections like blog posts, achievements, or fun facts -->
