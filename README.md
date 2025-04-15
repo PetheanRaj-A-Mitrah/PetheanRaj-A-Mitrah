@@ -2,13 +2,7 @@
 
 I'm a **Full Stack Developer** passionate about building web apps that are fast, functional, and user-friendly web-apps and always looking for new things to learn.
 
-## 🧠 Currently Learning
-- PHP (building a real-time Task Manager App)
-- Advanced SQL (PostgreSQL)
-- Real-time app development
-
 ### 🛠️ Tech Stacks and Tools:
-
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black"/>
@@ -42,14 +36,10 @@ I'm a **Full Stack Developer** passionate about building web apps that are fast,
 </p>
 
 🎉 Fun Facts
--     🧩 I love solving logic puzzles and algorithm challenges for fun.
--     🎮 Big fan of FPS and story-driven games in my downtime.
--     ☕ Music fuels 90% of my coding.
--     🎧 Always coding with chill beats or synth-wave in the background.
+🧩 Logic puzzles and algorithm challenges are my go-to for fun.
+🎮 FPS and story-driven games keep me entertained.
+☕ Music fuels 90% of my coding, with chill beats and synth-wave as my background vibes.
 
-##📫 Connect With Me
-    - GitHub: PetheanRaj-A-Mitrah
-    - Email: petheanraj.a@mitrahsoft.com
     
 ## 📈 GitHub Contribution Graph
 
@@ -58,4 +48,10 @@ I'm a **Full Stack Developer** passionate about building web apps that are fast,
 ## 🔥 GitHub Streak Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PetheanRaj-A-Mitrah&show_icons=true&theme=radical)
+
+
+## 📫 Connect With Me
+
+- **GitHub**: [PetheanRaj-A-Mitrah](https://github.com/PetheanRaj-A-Mitrah/)
+- **Email**: petheanraj.a@mitrahsoft.com
 
