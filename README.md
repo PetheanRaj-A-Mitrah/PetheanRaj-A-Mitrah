@@ -35,15 +35,10 @@ I'm a **Full Stack Developer** passionate about building web apps that are fast,
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black"/>
 </p>
 
-🎉 Fun Facts
+## 🎉 Fun Facts
 🧩 Logic puzzles and algorithm challenges are my go-to for fun.
 🎮 FPS and story-driven games keep me entertained.
 ☕ Music fuels 90% of my coding, with chill beats and synth-wave as my background vibes.
-
-    
-## 📈 GitHub Contribution Graph
-
-![Contribution Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=PetheanRaj-A-Mitrah&show_icons=true&hide_title=true&count_private=true&layout=compact&theme=radical&langs_count=6&hide=python)
 
 ## 🔥 GitHub Streak Stats
 
