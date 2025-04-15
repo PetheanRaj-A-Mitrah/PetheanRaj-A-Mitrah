@@ -1,27 +1,61 @@
 # 👋 Hi, I'm Pethean Raj
 
-I'm a **Full Stack Developer** passionate about building web apps that are fast, functional, and user-friendly. Currently working on the **Mastercard Digital Enablement Service (MDES)** project and always looking for new things to learn.
+I'm a **Full Stack Developer** passionate about building web apps that are fast, functional, and user-friendly web-apps and always looking for new things to learn.
 
 ## 🧠 Currently Learning
 - PHP (building a real-time Task Manager App)
 - Advanced SQL (PostgreSQL)
 - Real-time app development
 
-## 🛠️ Tech Stack
-- **Languages:** JavaScript, PHP, HTML, CSS, SQL
-- **Front-End:** React, Tailwind CSS
-- **Back-End:** Node.js, PHP
-- **Database:** PostgreSQL
-- **Tools:** Git, VS Code, Figma, REST APIs
+### 🛠️ Tech Stacks and Tools:
 
-## 🚀 Projects
-- 🔧 Real-Time Task Manager (in PHP) - *coming soon*
-- 💳 Mastercard Digital Enablement Service (MDES)
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black"/>
+</p>
 
-## 📫 Let's Connect
-- GitHub: https://github.com/PetheanRaj-A-Mitrah/
-- Email: petheanraj.a@mitrahsoft.com
+🎉 Fun Facts
+-     🧩 I love solving logic puzzles and algorithm challenges for fun.
+-     🎮 Big fan of FPS and story-driven games in my downtime.
+-     ☕ Music fuels 90% of my coding.
+-     🎧 Always coding with chill beats or synth-wave in the background.
+
+##📫 Connect With Me
+    - GitHub: PetheanRaj-A-Mitrah
+    - Email: petheanraj.a@mitrahsoft.com
+    
+## 📈 GitHub Contribution Graph
+
+![Contribution Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=PetheanRaj-A-Mitrah&show_icons=true&hide_title=true&count_private=true&layout=compact&theme=radical&langs_count=6&hide=python)
+
+## 🔥 GitHub Streak Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PetheanRaj-A-Mitrah&show_icons=true&theme=radical)
 
-<!-- Optional: Add more sections like blog posts, achievements, or fun facts -->
