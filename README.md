@@ -41,8 +41,6 @@ I'm a **Full Stack Developer** passionate about building web apps that are fast,
 - ☕ Music fuels 90% of my coding, with chill beats and synth-wave as my background vibes.
 
 ## 🔥 GitHub Streak Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PetheanRaj-A-Mitrah&show_icons=true&theme=radical)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PetheanRaj-A-Mitrah&theme=react-dark" />
 </p>
